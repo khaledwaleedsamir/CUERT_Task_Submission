@@ -1,0 +1,4 @@
+In this code it is assumed that one degree for the angle of the stepper motor is equal to 1 step.
+
+If the required angle is 45, the stepper motor will actually rotate 44 steps only as it rotates numbers divisible by 4 as the interfacing
+of the stepper motor with the microcontroller is not complete.

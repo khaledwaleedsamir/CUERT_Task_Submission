@@ -10,6 +10,3 @@ Cairo University Eco-Racing-Team 2024 Recruitment Task Submission.
 | ![3](Screenshots/3.png)             | ![4](Screenshots/4.png)             |
 | 7                                   | 8                                   | 
 | ![5](Screenshots/5.png)             | ![6](Screenshots/6.png)             |
-
-# Task Video
-![Video](Video/CUERT_Task_Video.mp4)

@@ -1,7 +1,7 @@
 # CUERT_Task_Submission
 Cairo University Eco-Racing-Team 2024 Recruitment Task Submission.
 # Proteus Simulation
-| Screenshots                         |                                     | 
+| Screenshots                         | Screenshots                         | 
 | ------------------------------------|------------------------------------ | 
 | ![2](Screenshots/0.png)             | ![1](Screenshots/1.png)             |
 | 1                                   | 2                                   | 

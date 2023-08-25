@@ -2,7 +2,7 @@
 Cairo University Eco-Racing-Team 2024 Recruitment Task Submission.
 # Proteus Simulation
 | Screenshots                                                               | 
-| ------------------------------------------------------------------------- | 
+| ------------------------------------|------------------------------------ | 
 | ![2](Screenshots/0.png)             | ![1](Screenshots/1.png)             |
 | 1                                   | 2                                   | 
 | ![1](Screenshots/1.png)             | ![2](Screenshots/2.png)             |
